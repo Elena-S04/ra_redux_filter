@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o37ky6bt7e5f70g7?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-redux-filter)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
